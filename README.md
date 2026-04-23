@@ -12,7 +12,7 @@
 2. streamlit run app.py
 
 ## App Link
-[这里后面粘贴你的Streamlit在线链接]
+https://acc102-track4-faamg-ehw2qo8eww8zkmtmxuty5s.streamlit.app/
 
 ## Key Insights
 1. Microsoft (MSFT) has the highest average closing price
