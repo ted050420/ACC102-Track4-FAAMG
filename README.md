@@ -1,6 +1,6 @@
 # ACC102 Mini Assignment - Track4
 ## FAAMG 2025 Stock Analysis Interactive Tool
-### Student: [你的名字] | ID: [你的学号]
+### Student: Tairan.Luo24 | ID: 2469624
 
 ## Project Info
 - Track: 4 (Interactive Data Tool)
